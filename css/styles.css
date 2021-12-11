@@ -27,7 +27,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    flex: 1;
+    flex: 2;
     position: relative;
     transition: all;
 }
@@ -42,7 +42,7 @@ body {
     opacity: 0;
 }
 .cards.active {
-    flex: 7;
+    flex: 10;
 }
 .cards.active h3 {
     opacity: .8;
