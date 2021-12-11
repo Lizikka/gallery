@@ -42,7 +42,7 @@ body {
     opacity: 0;
 }
 .cards.active {
-    flex: 5;
+    flex: 10;
 }
 .cards.active h3 {
     opacity: .8;
