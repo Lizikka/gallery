@@ -49,7 +49,7 @@ body {
     opacity: .8;
     transition: opacity .3s;
 }
-.img {
+img {
     height: 200px;
     weight: 200px;
 }
