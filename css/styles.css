@@ -6,7 +6,7 @@ body {
     background-color: #ccc;
     margin: 0;
     font-family: 'Mulish', sans-serif ;
-    display: flex;
+    
     justify-content: center;
     align-items: center;
     height: 100vh;
